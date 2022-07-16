@@ -1,4 +1,10 @@
 
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- 📫 How to reach me **adampithewan@gmail.com**
+
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibhanu.prakash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibhanuprakash) 
 
